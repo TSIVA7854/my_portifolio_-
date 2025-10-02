@@ -297,7 +297,7 @@ border: rgb(53, 53,53) 0.1rem solid;
   width: 700px;
   text-align: justify;
   margin-bottom: 3rem;
-  margin-right:3rem;
+  margin-left:3rem;
   flex: 1;
   background: white;
   border-radius: 2rem;
@@ -450,6 +450,7 @@ footer p {
   text-align: center;
 
 }
+
 
 
 
