@@ -292,6 +292,18 @@ border: rgb(53, 53,53) 0.1rem solid;
   display:flex;
 }
 
+.details-container_two {
+  padding : 1rem;
+  width: 700px;
+  text-align: justify;
+  margin-bottom: 3rem;
+  flex: 1;
+  background: white;
+  border-radius: 2rem;
+  border: rgb(53,53,53) 0.1rem solid;
+  border-color: rgb(163,163,153);
+  text-align: center;
+}
 
 .arrow {
   position: absolute;
@@ -312,6 +324,7 @@ border: rgb(53, 53,53) 0.1rem solid;
 
 
 #experience {
+  margin-top:30rem;
   position: relative;
 }
 
@@ -436,4 +449,5 @@ footer p {
   text-align: center;
 
 }
+
 
