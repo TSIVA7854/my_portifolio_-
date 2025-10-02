@@ -167,18 +167,21 @@ section {
   height: 80vh;
 }
 
-
 .section__pic-container {
   display: flex;
   height: 260px;
+  border:rgb(53,53,53) 0.2rem solid;
+  border-color:#454545;
   width: 260px;
+  border-radius: 3.8rem;
   margin: auto 0;
+  box-sizing: border-box 2px solid black;
   
 }
 
 .section__pic-container img {
-  border-radius: 50%;
-
+  border-radius: 4.8rem;
+  margin-bottom: 10px;  
 }
 
 .section__text {
@@ -430,4 +433,5 @@ footer {
 
 footer p {
   text-align: center;
+
 }
