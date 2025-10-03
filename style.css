@@ -297,7 +297,7 @@ border: rgb(53, 53,53) 0.1rem solid;
 
   .details-container {
     height: 50vh;
-    height: 380px;
+    width:340px;
   }
   
 }
@@ -323,7 +323,7 @@ border: rgb(53, 53,53) 0.1rem solid;
 
 
 #experience {
-  margin-top:30rem;
+  margin-top:20rem;
   position: relative;
 }
 
@@ -448,6 +448,7 @@ footer p {
   text-align: center;
 
 }
+
 
 
 
