@@ -293,6 +293,16 @@ border: rgb(53, 53,53) 0.1rem solid;
 }
 
 
+@media screen and (max-width:600) {
+
+  .details-container {
+    height: 50vh;
+    height: 380px;
+  }
+  
+}
+
+
 
 .arrow {
   position: absolute;
@@ -438,6 +448,7 @@ footer p {
   text-align: center;
 
 }
+
 
 
 
