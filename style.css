@@ -296,7 +296,7 @@ border: rgb(53, 53,53) 0.1rem solid;
 @media screen and (max-width:600) {
 
   .details-container {
-    height: 50vh;
+    height: 45vh;
     width:340px;
   }
   
@@ -448,6 +448,7 @@ footer p {
   text-align: center;
 
 }
+
 
 
 
