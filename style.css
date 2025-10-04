@@ -297,6 +297,8 @@ border: rgb(53, 53,53) 0.1rem solid;
 
   .details-container {
     height: 45vh;
+    align-items:center;
+    justify-content:center;
     width:340px;
   }
   
@@ -450,6 +452,7 @@ footer p {
   text-align: center;
 
 }
+
 
 
 
