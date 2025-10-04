@@ -27,7 +27,8 @@ p {
   color: white;
   padding: 0.7em 1em;
   padding-left: 0.9em;
-  display: flex;
+  display: flex
+  flex-direction:column;
   align-items: center;
   border: none;
   border-radius: 16px;
@@ -471,6 +472,7 @@ footer p {
   text-align: center;
 
 }
+
 
 
 
