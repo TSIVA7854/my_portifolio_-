@@ -313,6 +313,8 @@ border: rgb(53, 53,53) 0.1rem solid;
 .details-container {
  padding : 1.5rem;
   margin: 2rem;
+  align-items:center;
+  justify-content:center;
   flex: 1;
   background: white;
   border-radius: 2rem;
@@ -448,6 +450,7 @@ footer p {
   text-align: center;
 
 }
+
 
 
 
