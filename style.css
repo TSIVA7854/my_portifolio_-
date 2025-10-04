@@ -28,10 +28,10 @@ p {
   color: #422800;
   cursor: pointer;
   display: inline-block;
-  font-weight: 350;
-  font-size: 13px;
-  padding: 0 14px;
-  line-height: 40px;
+  font-weight: 500;
+  font-size: 18px;
+  padding: 0 15px;
+  line-height: 20px;
   text-align: center;
   text-decoration: none;
   user-select: none;
@@ -51,7 +51,7 @@ p {
 @media (min-width: 768px) {
   .button-74 {
     min-width: 80px;
-    padding: 0 25px;
+    padding: 0 10px;
   }
 }
 
@@ -492,6 +492,7 @@ footer p {
   text-align: center;
 
 }
+
 
 
 
