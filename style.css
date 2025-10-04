@@ -20,7 +20,7 @@ p {
 
 
 
-button-4 {
+.button-4 {
   font-family: inherit;
   font-size: 20px;
   background: royalblue;
@@ -471,6 +471,7 @@ footer p {
   text-align: center;
 
 }
+
 
 
 
