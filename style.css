@@ -388,6 +388,7 @@ article .icon {
 /*  Projects */
 
 #projects {
+  margin-top:20rem;
   position: relative;
 }
 
@@ -473,6 +474,7 @@ footer p {
   text-align: center;
 
 }
+
 
 
 
