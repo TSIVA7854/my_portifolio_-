@@ -418,7 +418,7 @@ article .icon {
 
 #Contact {
   display: flex;
-  margin-top: 5rem;
+  margin-top: 3.5rem;
   justify-content: center;
   flex-direction: column;
   height: 70vh;
@@ -493,6 +493,7 @@ footer p {
   
   height:380px;
 }
+
 
 
 
