@@ -475,6 +475,25 @@ footer p {
 
 }
 
+.habits_container {
+
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+
+  gap: 2rem;
+  justify-content: center;
+  
+}
+
+.Writing_image_1 {
+  width: 380px;
+  align-items: center;
+  justify-content: center;
+  
+  height:380px;
+}
+
 
 
 
