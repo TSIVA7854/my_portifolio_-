@@ -70,7 +70,7 @@ a {
   text-decoration-color: white;
 }
 
-a:hover {
+nav a:hover {
   color: grey;
   text-decoration: underline;
   text-underline-offset: 1rem;
@@ -493,6 +493,7 @@ footer p {
   
   height:380px;
 }
+
 
 
 
