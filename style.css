@@ -346,7 +346,7 @@ border: rgb(53, 53,53) 0.1rem solid;
   text-align: center;
 }
 
-
+/*
 #experience {
   margin-top:28rem;
   position: relative;
@@ -384,11 +384,11 @@ article {
 article .icon {
   cursor: default;
 }
-
+*/
 /*  Projects */
 
 #projects {
-  margin-top:20rem;
+  margin-top:28rem;
   position: relative;
 }
 
@@ -493,6 +493,7 @@ footer p {
   boder-radius:1.5rem;
   height:380px;
 }
+
 
 
 
