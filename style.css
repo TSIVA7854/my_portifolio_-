@@ -490,9 +490,10 @@ footer p {
   width: 380px;
   align-items: center;
   justify-content: center;
-  
+  boder-radius:5px;
   height:380px;
 }
+
 
 
 
